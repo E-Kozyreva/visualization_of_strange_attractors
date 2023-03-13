@@ -1,1 +1,1 @@
-# visualization_of_strange_attractorsv
+# visualization_of_strange_attractors
