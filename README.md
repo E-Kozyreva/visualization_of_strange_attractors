@@ -1,1 +1,3 @@
-# visualization_of_strange_attractors
+### Environment
+- Python 3.8.0
+---
